@@ -1,0 +1,3 @@
+rootProject.name = 'api-cadpessoas'
+
+include ':domain',':core',':api'
