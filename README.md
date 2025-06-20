@@ -64,8 +64,8 @@ Use Postman ou Insomnia para requisição POST -> localhost:8080/api/salvar com 
 ### Para o projeto **multimódulo**:
 
 ```bash
-cd projeto-multimodulo/cadastro_pessoa
-./gradlew bootRun
+cd projeto-multimodulo
+./gradlew :api:bootRun
 ```
 
 Use Postman ou Insomnia para requisição POST -> localhost:8080/api/salvar com o bodyJson:
