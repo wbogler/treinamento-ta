@@ -53,7 +53,7 @@ Este repositório contém os códigos desenvolvidos durante o minicurso **"Arqui
 ### Para o projeto organizado por **pacotes**:
 
 ```bash
-cd projeto-pacotes/cadastro_pessoas
+cd projeto-pacotes/cadastro_pessoa
 ./gradlew bootRun
 ```
 Use Postman ou Insomnia para requisição POST -> localhost:8080/api/salvar com o bodyJson:
@@ -64,7 +64,7 @@ Use Postman ou Insomnia para requisição POST -> localhost:8080/api/salvar com 
 ### Para o projeto **multimódulo**:
 
 ```bash
-cd projeto-multimodulo/cadastro_pessoas
+cd projeto-multimodulo/cadastro_pessoa
 ./gradlew bootRun
 ```
 
